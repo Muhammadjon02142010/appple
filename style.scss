@@ -1,0 +1,135 @@
+header{
+    background-image: url(./beer\ slide.jpg);
+    background-color: #00000099;
+    width: 100%;
+   height: 800px;
+   opacity: 190%;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: aliceblue;
+}
+.nav-head{
+    margin-top: 60px;
+    display: flex;
+   
+}
+.nav-head img{
+    width: 80px;
+    margin-left: 20px;
+}
+.nav-footer button{
+    color: #FFFFFF;
+    background: transparent;
+    border: none;
+    padding: 10px;
+    margin: 0 40px;
+    font-size: 14px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #ffffff;
+    margin-top: 100px;
+    font-size: large; 
+}
+.mana{
+    color: #FDCF55;
+}
+.container-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.container-footer button{
+padding: 10px 50px;
+background-color: #FDCF55;
+border-radius: 50px;
+border: none;
+font-weight: 600;
+}
+.body-{
+    background-color: wheat;
+}
+.body-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.body-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.body-body img{
+    width: 80px;
+    height:     100px;
+}
+.body-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;  
+}
+.first-foot{
+    display: flex;
+    align-items: center;
+}
+.foot-head{
+    margin: 50px;
+}
+.foot-head button{
+    border-radius: 50px;
+    width: 255px;
+    height: 44px;
+    background-color: #FDCF55;
+    border: none;
+    font-weight: 600;
+}
+.foot-body img{
+    width: 700px;
+}
+.last-foot{
+    background-color: black;
+    color: #FFFFFF;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+.first-conta img{
+    width: 100px;
+}
+.imm{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.immi button{
+    background-color: transparent;
+    border: none;
+}
+.immi img{
+    width: 30px;
+}
+.s1{
+margin-bottom: 50px;
+color: #FDCF55;
+}
+.wunder{
+color: #FDCF55;
+}
+.third-conta h2{
+    color: #FDCF55;
+    text-align: left;
+}
